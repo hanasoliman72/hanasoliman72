@@ -15,7 +15,7 @@ I'm Hana, a passionate computer science student with a keen interest in problem-
 
 ## 🔧 Skills
 
-- **Languages:** C/C++, C#, Java and SQL.
+- **Languages:** C/C++, C#, Java, Python and SQL.
 
 ## 📫 Let's Connect
 <a href="https://linkedin.com/in/hana-salah-941919266" target="_blank">
